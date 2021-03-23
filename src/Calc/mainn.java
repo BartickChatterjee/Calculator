@@ -9,8 +9,8 @@ public class mainn
 		//JFrame.setDefaultLookAndFeelDecorated(true);
 		func f = new func();
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		f.setSize(536,605);
-		f.setResizable(false);
+		f.setSize(542,612);
+		//f.setResizable(false);
 		f.setVisible(true);
 	}
 }
